@@ -1,0 +1,320 @@
+rank: 7, startrow: 29, lastrow: 32
+rank: 5, startrow: 21, lastrow: 24
+size: 8
+rank: 0, startrow: 1, lastrow: 4
+Started relax
+rank: 4, startrow: 17, lastrow: 20
+Started resid
+Resid eps: 34.666667
+rank: 2, startrow: 9, lastrow: 12
+rank: 3, startrow: 13, lastrow: 16
+rank: 1, startrow: 5, lastrow: 8
+Started relax
+Started resid
+Resid eps: 13.666667
+Started relax
+Started resid
+Resid eps: 8.675926
+Started relax
+Started resid
+Resid eps: 6.984568
+Started relax
+Started resid
+Resid eps: 5.917695
+Started relax
+Started resid
+Resid eps: 4.992498
+rank: 6, startrow: 25, lastrow: 28
+Started relax
+Started resid
+Resid eps: 4.141082
+Started relax
+Started resid
+Resid eps: 3.589537
+Started relax
+Started resid
+Resid eps: 3.139795
+Started relax
+Started resid
+Resid eps: 2.846503
+Started relax
+Started resid
+Resid eps: 2.651619
+Started relax
+Started resid
+Resid eps: 2.465512
+Started relax
+Started resid
+Resid eps: 2.291321
+Started relax
+Started resid
+Resid eps: 2.117800
+Started relax
+Started resid
+Resid eps: 1.961930
+Started relax
+Started resid
+Resid eps: 1.840712
+Started relax
+Started resid
+Resid eps: 1.723932
+Started relax
+Started resid
+Resid eps: 1.617180
+Started relax
+Started resid
+Resid eps: 1.526016
+Started relax
+Started resid
+Resid eps: 1.447593
+Started relax
+Started resid
+Resid eps: 1.390589
+Started relax
+Started resid
+Resid eps: 1.336028
+Started relax
+Started resid
+Resid eps: 1.280816
+Started relax
+Started resid
+Resid eps: 1.228189
+Started relax
+Started resid
+Resid eps: 1.175870
+Started relax
+Started resid
+Resid eps: 1.126520
+Started relax
+Started resid
+Resid eps: 1.077985
+Started relax
+Started resid
+Resid eps: 1.032471
+Started relax
+Started resid
+Resid eps: 0.988010
+Started relax
+Started resid
+Resid eps: 0.946965
+Started relax
+Started resid
+Resid eps: 0.912653
+Started relax
+Started resid
+Resid eps: 0.880689
+Started relax
+Started resid
+Resid eps: 0.853338
+Started relax
+Started resid
+Resid eps: 0.827083
+Started relax
+Started resid
+Resid eps: 0.801061
+Started relax
+Started resid
+Resid eps: 0.776182
+Started relax
+Started resid
+Resid eps: 0.751639
+Started relax
+Started resid
+Resid eps: 0.728235
+Started relax
+Started resid
+Resid eps: 0.705225
+Started relax
+Started resid
+Resid eps: 0.683319
+Started relax
+Started resid
+Resid eps: 0.661834
+Started relax
+Started resid
+Resid eps: 0.641402
+Started relax
+Started resid
+Resid eps: 0.621397
+Started relax
+Started resid
+Resid eps: 0.602384
+Started relax
+Started resid
+Resid eps: 0.585215
+Started relax
+Started resid
+Resid eps: 0.569047
+Started relax
+Started resid
+Resid eps: 0.554384
+Started relax
+Started resid
+Resid eps: 0.541062
+Started relax
+Started resid
+Resid eps: 0.527909
+Started relax
+Started resid
+Resid eps: 0.515238
+Started relax
+Started resid
+Resid eps: 0.502747
+Started relax
+Started resid
+Resid eps: 0.490723
+Started relax
+Started resid
+Resid eps: 0.478883
+Started relax
+Started resid
+Resid eps: 0.467491
+Started relax
+Started resid
+Resid eps: 0.456284
+Started relax
+Started resid
+Resid eps: 0.445505
+Started relax
+Started resid
+Resid eps: 0.434909
+Started relax
+Started resid
+Resid eps: 0.424718
+Started relax
+Started resid
+Resid eps: 0.414706
+Started relax
+Started resid
+Resid eps: 0.405078
+Started relax
+Started resid
+Resid eps: 0.395623
+Started relax
+Started resid
+Resid eps: 0.386529
+Started relax
+Started resid
+Resid eps: 0.378228
+Started relax
+Started resid
+Resid eps: 0.370226
+Started relax
+Started resid
+Resid eps: 0.362658
+Started relax
+Started resid
+Resid eps: 0.355784
+Started relax
+Started resid
+Resid eps: 0.348998
+Started relax
+Started resid
+Resid eps: 0.342418
+Started relax
+Started resid
+Resid eps: 0.335925
+Started relax
+Started resid
+Resid eps: 0.329629
+Started relax
+Started resid
+Resid eps: 0.323420
+Started relax
+Started resid
+Resid eps: 0.317400
+Started relax
+Started resid
+Resid eps: 0.311464
+Started relax
+Started resid
+Resid eps: 0.305709
+Started relax
+Started resid
+Resid eps: 0.300036
+Started relax
+Started resid
+Resid eps: 0.294535
+Started relax
+Started resid
+Resid eps: 0.289114
+Started relax
+Started resid
+Resid eps: 0.283858
+Started relax
+Started resid
+Resid eps: 0.278678
+Started relax
+Started resid
+Resid eps: 0.273655
+Started relax
+Started resid
+Resid eps: 0.268706
+Started relax
+Started resid
+Resid eps: 0.263906
+Started relax
+Started resid
+Resid eps: 0.259177
+Started relax
+Started resid
+Resid eps: 0.254651
+Started relax
+Started resid
+Resid eps: 0.250460
+Started relax
+Started resid
+Resid eps: 0.246325
+Started relax
+Started resid
+Resid eps: 0.242389
+Started relax
+Started resid
+Resid eps: 0.238731
+Started relax
+Started resid
+Resid eps: 0.235115
+Started relax
+Started resid
+Resid eps: 0.231589
+Started relax
+Started resid
+Resid eps: 0.228105
+Started relax
+Started resid
+Resid eps: 0.224707
+Started relax
+Started resid
+Resid eps: 0.221348
+Started relax
+Started resid
+Resid eps: 0.218074
+Started relax
+Started resid
+Resid eps: 0.214838
+Started relax
+Started resid
+Resid eps: 0.211682
+Started relax
+Started resid
+Resid eps: 0.208563
+Started relax
+Started resid
+Resid eps: 0.205522
+Sending data from 7
+Started relax
+Sending data from 6
+Started resid
+Resid eps: 0.202517
+Started relax
+Started resid
+Resid eps: 0.199586
+Sending data from 5
+Sending data from 4
+Receiving data
+Sending data from 1
+Sending data from 2
+Sending data from 3
+Finished
+S = 111027.834189
+eps = 0.370102

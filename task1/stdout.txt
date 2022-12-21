@@ -1,0 +1,134 @@
+Generated data:
+rank: 0         coords: 0, 0    data: 33599
+rank: 1         coords: 0, 1    data: 0
+rank: 2         coords: 0, 2    data: 882966
+rank: 3         coords: 0, 3    data: 765933
+rank: 4         coords: 0, 4    data: 165251
+rank: 5         coords: 0, 5    data: 48218
+rank: 6         coords: 0, 6    data: 931185
+rank: 7         coords: 0, 7    data: 330503
+rank: 8         coords: 1, 0    data: 213470
+rank: 9         coords: 1, 1    data: 96437
+rank: 10        coords: 1, 2    data: 495755
+rank: 11        coords: 1, 3    data: 378722
+rank: 12        coords: 1, 4    data: 261689
+rank: 13        coords: 1, 5    data: 661007
+rank: 14        coords: 1, 6    data: 543974
+rank: 15        coords: 1, 7    data: 426941
+rank: 16        coords: 2, 0    data: 826259
+rank: 17        coords: 2, 1    data: 709226
+rank: 18        coords: 2, 2    data: 592193
+rank: 19        coords: 2, 3    data: 991511
+rank: 20        coords: 2, 4    data: 874478
+rank: 21        coords: 2, 5    data: 757444
+rank: 22        coords: 2, 6    data: 156763
+rank: 23        coords: 2, 7    data: 39730
+rank: 24        coords: 3, 0    data: 922696
+rank: 25        coords: 3, 1    data: 322015
+rank: 26        coords: 3, 2    data: 204982
+rank: 27        coords: 3, 3    data: 87948
+rank: 28        coords: 3, 4    data: 487267
+rank: 29        coords: 3, 5    data: 370234
+rank: 30        coords: 3, 6    data: 769552
+rank: 31        coords: 3, 7    data: 652519
+rank: 32        coords: 4, 0    data: 535486
+rank: 33        coords: 4, 1    data: 934804
+rank: 34        coords: 4, 2    data: 817771
+rank: 35        coords: 4, 3    data: 700738
+rank: 36        coords: 4, 4    data: 100056
+rank: 37        coords: 4, 5    data: 983023
+rank: 38        coords: 4, 6    data: 865990
+rank: 39        coords: 4, 7    data: 265308
+rank: 40        coords: 5, 0    data: 148275
+rank: 41        coords: 5, 1    data: 31241
+rank: 42        coords: 5, 2    data: 430560
+rank: 43        coords: 5, 3    data: 313527
+rank: 44        coords: 5, 4    data: 196493
+rank: 45        coords: 5, 5    data: 595812
+rank: 46        coords: 5, 6    data: 478779
+rank: 47        coords: 5, 7    data: 361745
+rank: 48        coords: 6, 0    data: 761064
+rank: 49        coords: 6, 1    data: 644031
+rank: 50        coords: 6, 2    data: 526997
+rank: 51        coords: 6, 3    data: 926316
+rank: 52        coords: 6, 4    data: 809283
+rank: 53        coords: 6, 5    data: 692249
+rank: 54        coords: 6, 6    data: 91568
+rank: 55        coords: 6, 7    data: 974535
+rank: 56        coords: 7, 0    data: 857501
+rank: 57        coords: 7, 1    data: 256820
+rank: 58        coords: 7, 2    data: 139787
+rank: 59        coords: 7, 3    data: 539105
+rank: 60        coords: 7, 4    data: 422072
+rank: 61        coords: 7, 5    data: 305038
+rank: 62        coords: 7, 6    data: 704357
+rank: 63        coords: 7, 7    data: 587324
+
+Max data value: 991511
+Max data rank: 19
+
+Data after broadcast:
+rank: 0         best rank: 19   best coords: 2, 3       data: 991511
+rank: 1         best rank: 19   best coords: 2, 3       data: 991511
+rank: 2         best rank: 19   best coords: 2, 3       data: 991511
+rank: 3         best rank: 19   best coords: 2, 3       data: 991511
+rank: 4         best rank: 19   best coords: 2, 3       data: 991511
+rank: 5         best rank: 19   best coords: 2, 3       data: 991511
+rank: 6         best rank: 19   best coords: 2, 3       data: 991511
+rank: 7         best rank: 19   best coords: 2, 3       data: 991511
+rank: 8         best rank: 19   best coords: 2, 3       data: 991511
+rank: 9         best rank: 19   best coords: 2, 3       data: 991511
+rank: 10        best rank: 19   best coords: 2, 3       data: 991511
+rank: 11        best rank: 19   best coords: 2, 3       data: 991511
+rank: 12        best rank: 19   best coords: 2, 3       data: 991511
+rank: 13        best rank: 19   best coords: 2, 3       data: 991511
+rank: 14        best rank: 19   best coords: 2, 3       data: 991511
+rank: 15        best rank: 19   best coords: 2, 3       data: 991511
+rank: 16        best rank: 19   best coords: 2, 3       data: 991511
+rank: 17        best rank: 19   best coords: 2, 3       data: 991511
+rank: 18        best rank: 19   best coords: 2, 3       data: 991511
+rank: 19        best rank: 19   best coords: 2, 3       data: 991511
+rank: 20        best rank: 19   best coords: 2, 3       data: 991511
+rank: 21        best rank: 19   best coords: 2, 3       data: 991511
+rank: 22        best rank: 19   best coords: 2, 3       data: 991511
+rank: 23        best rank: 19   best coords: 2, 3       data: 991511
+rank: 24        best rank: 19   best coords: 2, 3       data: 991511
+rank: 25        best rank: 19   best coords: 2, 3       data: 991511
+rank: 26        best rank: 19   best coords: 2, 3       data: 991511
+rank: 27        best rank: 19   best coords: 2, 3       data: 991511
+rank: 28        best rank: 19   best coords: 2, 3       data: 991511
+rank: 29        best rank: 19   best coords: 2, 3       data: 991511
+rank: 30        best rank: 19   best coords: 2, 3       data: 991511
+rank: 31        best rank: 19   best coords: 2, 3       data: 991511
+rank: 32        best rank: 19   best coords: 2, 3       data: 991511
+rank: 33        best rank: 19   best coords: 2, 3       data: 991511
+rank: 34        best rank: 19   best coords: 2, 3       data: 991511
+rank: 35        best rank: 19   best coords: 2, 3       data: 991511
+rank: 36        best rank: 19   best coords: 2, 3       data: 991511
+rank: 37        best rank: 19   best coords: 2, 3       data: 991511
+rank: 38        best rank: 19   best coords: 2, 3       data: 991511
+rank: 39        best rank: 19   best coords: 2, 3       data: 991511
+rank: 40        best rank: 19   best coords: 2, 3       data: 991511
+rank: 41        best rank: 19   best coords: 2, 3       data: 991511
+rank: 42        best rank: 19   best coords: 2, 3       data: 991511
+rank: 43        best rank: 19   best coords: 2, 3       data: 991511
+rank: 44        best rank: 19   best coords: 2, 3       data: 991511
+rank: 45        best rank: 19   best coords: 2, 3       data: 991511
+rank: 46        best rank: 19   best coords: 2, 3       data: 991511
+rank: 47        best rank: 19   best coords: 2, 3       data: 991511
+rank: 48        best rank: 19   best coords: 2, 3       data: 991511
+rank: 49        best rank: 19   best coords: 2, 3       data: 991511
+rank: 50        best rank: 19   best coords: 2, 3       data: 991511
+rank: 51        best rank: 19   best coords: 2, 3       data: 991511
+rank: 52        best rank: 19   best coords: 2, 3       data: 991511
+rank: 53        best rank: 19   best coords: 2, 3       data: 991511
+rank: 54        best rank: 19   best coords: 2, 3       data: 991511
+rank: 55        best rank: 19   best coords: 2, 3       data: 991511
+rank: 56        best rank: 19   best coords: 2, 3       data: 991511
+rank: 57        best rank: 19   best coords: 2, 3       data: 991511
+rank: 58        best rank: 19   best coords: 2, 3       data: 991511
+rank: 59        best rank: 19   best coords: 2, 3       data: 991511
+rank: 60        best rank: 19   best coords: 2, 3       data: 991511
+rank: 61        best rank: 19   best coords: 2, 3       data: 991511
+rank: 62        best rank: 19   best coords: 2, 3       data: 991511
+rank: 63        best rank: 19   best coords: 2, 3       data: 991511
